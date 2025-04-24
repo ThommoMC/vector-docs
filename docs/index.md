@@ -8,5 +8,5 @@ This documentation is split into 2 main parts,
     - The **User** section is for prod/locked robots and aims to provide infomation and tutorials for how to setup and do thing with your Vector. 
 
 ## Where to start
-If your a developer with a unlocked bot, head over to [Getting Started](dev-guide/getting-started.md) to setup and configure your dev enviroment.  
+If your a developer with a unlocked bot, head over to [Setting up your enviroment](dev-guide/setting-up.md) to setup and configure your dev enviroment.  
 If your a user, head on over to [What you can do](user-guide/what-you-can-do.md) to see whats possible with your bot.

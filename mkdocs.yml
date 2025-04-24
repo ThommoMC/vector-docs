@@ -7,6 +7,6 @@ theme:
 nav:
   - Home: index.md
   - Developer Guide:
-    - Getting Started: dev-guide/getting-started.md
+    - Setting up your enviroment: dev-guide/setting-up.md
   - User Guide:
     - What you can do: user-guide/what-you-can-do.md
