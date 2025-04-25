@@ -1,0 +1,3 @@
+# The Vector Docs
+
+This is a project aimed at documenting Vector's main two codebases, [victor](https://github.com/kercre123/victor) and [vicos-oelinux](https://github.com/kercre123/vicos-oelinux/). It also aims to provide basic documentation for a production robot, like installing a ota or setting up the sdk.
