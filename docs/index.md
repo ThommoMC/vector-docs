@@ -9,4 +9,4 @@ This documentation is split into 2 main parts,
 
 ## Where to start
 If your a developer with a unlocked bot, head over to [Getting Started](dev-guide/getting-started.md) to setup and configure your dev enviroment.  
-If your a user, head on over to [What you can do](user-guide/what-you-can-do.md) to see whats possible with your bot.
+If your a user, go checkout [What's possible](user-guide/whats-possible.md) to see whats possible with your bot.
