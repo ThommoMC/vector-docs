@@ -36,3 +36,4 @@ This step is where things start to change depending on what platform your on. Do
 Just open up a terminal and run `./wire/build-d.sh` and let its do its thing. Once it has finished building, get your robots ip and run `echo replace_with_robots_ip > robot_ip.txt`, then copy your robots ssh key to a file called `robot_sshkey` in the root of the repo and then finally run `./wire/deploy-d.sh` to deploy your freshly built victor!
 
 #### Windows
+Currently Under Construction
